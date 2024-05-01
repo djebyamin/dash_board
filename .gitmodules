@@ -1,0 +1,3 @@
+[submodule "admins"]
+	path = admins
+	url = https://github.com/djebyamin/admins
